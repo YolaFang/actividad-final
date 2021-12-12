@@ -90,6 +90,11 @@ body
 
 
 /* actividad */
+.actividad img
+{
+    max-width: 100%;
+}
+
 .actividad-box h1
 {
     font-size: 35px;
